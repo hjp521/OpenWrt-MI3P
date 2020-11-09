@@ -1,6 +1,6 @@
 # 借助 GitHub Actions 的 OpenWrt 在线集成自动编译.
 
-[![Build lede](https://github.com/hjp521/OpenWrt-MI3P/workflows/Build%20lede/badge.svg?event=schedule)
+![Build lede](https://github.com/hjp521/OpenWrt-MI3P/workflows/Build%20lede/badge.svg?event=schedule)
 
 支持自动定制固件, 自动调整依赖及生成配置文件, 无需上传配置. 兼容 [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) 以及 OpenWrt trunk.
 
