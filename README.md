@@ -9,6 +9,7 @@
 感谢[P3TERX](https://github.com/P3TERX/Actions-OpenWrt)珠玉在前.
 
 ## 使用教程:
+编译固件后台地址：192.168.31.1 密码:password
 
 ### 在一切开始前, 你需要的是:
 
